@@ -1,0 +1,5 @@
+{
+  "name": "MyArogya Sathi AI",
+  "description": "An intelligent health insurance advisor for Indians. It uses AI to analyze user needs, compare aggregator data, and recommend the best health policies with explained reasoning.",
+  "requestFramePermissions": []
+}
